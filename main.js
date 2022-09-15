@@ -9,7 +9,7 @@ function vowel(words){
             return words.slice(0, i) + words.slice(i + 1)
         }
     }
-    return word;
+    return words;
 }
 
 
